@@ -1,0 +1,60 @@
+[1.0, 1.1] RimCuisine 2 Core 
+[KV] Path Avoid - 1.1 
+[KV] RimFridge - 1.1 
+[SF] Priority treatment 1.1 
+Achtung! 
+Animals Logic 
+Auto-Cut Blight 
+Avoid Friendly Fire 
+Better Workbench Management 
+CM Color Coded Mood Bar [1.1] 
+Colony Manager 
+Common Sense 
+Conduit Deconstruct 
+Door Mat 
+Dubs Mint Menus 
+Dub's Paint Shop 
+EdB Prepare Carefully 
+Everybody Gets One 
+Harmony 
+Haul to Stack 
+Heat Map 
+HugsLib 
+Locks 
+LWM's Deep Storage 
+Meals On Wheels 
+Medical Tab 
+MendAndRecycle 
+MinifyEverything 
+Mod Manager 
+More Than Capable 
+No Job Authors 
+Numbers 
+Pawn Rules 
+Pharmacist 
+Pick Up And Haul 
+PowerSwitch 
+QualityBuilder 
+QualitySurgeon 
+Repair Workbench 
+Replace Stuff 
+RimHUD 
+RT Fuse 
+RT Power Switch 
+RunAndGun 
+RuntimeGC 
+Share The Load 
+Show Draftees Weapon 
+Simple Search Bar 
+Simple sidearms 
+Snap Out! 
+Stabilize 
+Startup impact 
+Vanilla Fences 
+Vanilla Furniture Expanded 
+Vanilla Furniture Expanded - Security 
+Vanilla Furniture Expanded - Spacer Module 
+Vanilla Textures Expanded 
+Wall Light 
+Where is my weapon? 
+While You're Up (Continued)[1.1] 
